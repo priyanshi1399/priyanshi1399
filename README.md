@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **DSA, Java**
 
-- 📫 How to reach me **priyanshitomar001@gmail.com**
+- 📫 How to reach me **priyanshitomar0103@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
