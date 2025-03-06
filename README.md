@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Priyanshi Singh</h1>
-<h3 align="center">A passionate software engineer from India</h3>
+<h3 align="center"> 👩‍💻 A  passionate software engineer from India</h3>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Always+learning%2C+always+growing" alt="Typing SVG" />
 </p>
@@ -11,7 +11,12 @@
 
 - 💬 Ask me about **DSA, Java**
 
+- 👩‍💻 I worked as a DRI for Microsoft Certification Dashboard Team(MSCERT) in Infosys and currenly working on CECV , MACS Schools as part of IDAM Team.
+
 - 📫 How to reach me **priyanshitomar0103@gmail.com**
+
+- ⚡ In my free time I listen Music ,love acting.
+  
 
 <h3 align="left" style="font-size: 24px;">Connect with me:</h3>
 <p align="left">
