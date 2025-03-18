@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **Java Backend Developement, DSA, System Design**
 
-- 💬 Ask me about **DSA, Java**
-
 - 👩‍💻 I worked as a DRI for Microsoft Certification Dashboard Team(MSCERT) in Infosys and currenly working on CECV , MACS Schools as part of IDAM Team.
 
 - 📫 How to reach me **priyanshitomar0103@gmail.com**
